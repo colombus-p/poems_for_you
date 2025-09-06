@@ -11,6 +11,8 @@ from handlers.user import user_router
 from keyboards.menu_commands import set_main_menu
 from services.file_handling import prepare_book
 
+# Изменение на github для теста !!!
+
 # Инициализируем логгер
 logger = logging.getLogger(__name__)
 
